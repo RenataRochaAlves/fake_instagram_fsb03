@@ -1,0 +1,9 @@
+<?php 
+
+define("DB_NAME", "___");
+define("DB_HOST", "___");
+define("DB_PORT", "___");
+define("DB_USER", "___");
+define("DB_PASS", "___");
+
+?>
